@@ -1,6 +1,6 @@
 # Machine_learning_project
 
-# Text Classification with scikit-learn
+# News Topic Classification using Machine Learning Techniques
 
 This repository demonstrates text classification using scikit-learn, focusing on the 20 Newsgroups dataset.
 
