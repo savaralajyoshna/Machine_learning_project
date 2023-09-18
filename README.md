@@ -18,13 +18,7 @@ The 20 Newsgroups dataset is a collection of approximately 20,000 newsgroup docu
 
 ### Installation
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/text-classification.git
-   ```
-
-2. Install the required dependencies:
+1. Install the required dependencies:
 
    ```bash
    pip install scikit-learn numpy
